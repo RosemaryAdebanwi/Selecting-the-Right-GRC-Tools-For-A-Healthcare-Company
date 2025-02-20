@@ -16,7 +16,11 @@ As a GRC officer in the healthcare sector, I was tasked with helping the organiz
 
 <h2>Recommended GRC Platforms:</h2>
 
-<img src="https://img.shields.io/badge/-Meditech-000080?&style=for-the-badge&logo=Meditech&logoColor=white" /> <img src="https://img.shields.io/badge/-Cerner-000000?&style=for-the-badge&logo=Cerner&logoColor=white" /> <img src="https://img.shields.io/badge/-Compliancy_Group-722F37?&style=for-the-badge&logo=CompliancyGroup&logoColor=white" /> <img src="https://img.shields.io/badge/-Qualys-DC143C?&style=for-the-badge&logo=Qualys&logoColor=white" /> <img src="https://img.shields.io/badge/-Change_Healthcare-808080?&style=for-the-badge&logo=ChangeHealthcare&logoColor=white" />
+<a href="https://www.meditech.com" target="_blank"><img src="https://img.shields.io/badge/-Meditech-000080?&style=for-the-badge&logo=Meditech&logoColor=white" /></a>
+<a href="https://www.cerner.com" target="_blank"><img src="https://img.shields.io/badge/-Cerner-000000?&style=for-the-badge&logo=Cerner&logoColor=white" /></a>
+<a href="https://www.compliancy-group.com" target="_blank"><img src="https://img.shields.io/badge/-Compliancy_Group-722F37?&style=for-the-badge&logo=CompliancyGroup&logoColor=white" /></a>
+<a href="https://www.qualys.com" target="_blank"><img src="https://img.shields.io/badge/-Qualys-DC143C?&style=for-the-badge&logo=Qualys&logoColor=white" /></a>
+<a href="https://www.changehealthcare.com" target="_blank"><img src="https://img.shields.io/badge/-Change_Healthcare-808080?&style=for-the-badge&logo=ChangeHealthcare&logoColor=white" /></a>
 
 <h2>Conclusion:</h2>
 
